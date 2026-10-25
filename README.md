@@ -14,11 +14,11 @@ I have basic experience with Python and Linux. I am also learning Git and GitHub
 
 ## 🎉 Interests
 
-Outside of class, I enjoy gaming and following FC Barcelona.
+Outside of class, I enjoy MMA and following FC Barcelona.
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC)
 ![Soccer](https://img.shields.io/badge/Soccer-228B22)
-![Gaming](https://img.shields.io/badge/Gaming-7B2CBF)
+![MMA](https://img.shields.io/badge/MMA-7B2CBF)
 
 ## 🔗 Links
 
